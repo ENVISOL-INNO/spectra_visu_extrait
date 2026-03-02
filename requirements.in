@@ -1,0 +1,6 @@
+pathlib
+numpy
+pandas
+regex
+plotly
+py_ce_forms_api>=0.1.16

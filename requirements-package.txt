@@ -1,0 +1,1 @@
+trias_py @ git+ssh://git@github.com/ENVISOL-INNO/trias_integration.git@main
